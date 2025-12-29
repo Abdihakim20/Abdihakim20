@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<h2>I'm Abdihakim Mustafa 👋</h2>
+
+🎓 Third-year student | 🤖 AI enthusiast | 🏆 Huawei Seeds for the Future Winner  
+
+💡 Learning front-end, backend, automation & AI fundamentals  
+🚀 Aiming for research & tech internships  
+
+
 <!--
 **Abdihakim20/Abdihakim20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
